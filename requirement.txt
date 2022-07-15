@@ -1,0 +1,2 @@
+Bootstrap v4.4
+jquery v3.4.1
